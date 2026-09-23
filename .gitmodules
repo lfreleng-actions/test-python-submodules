@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: Apache-2.0
 # SPDX-FileCopyrightText: 2026 The Linux Foundation
 
-[submodule "nested"]
-	path = nested
+[submodule "direct"]
+	path = direct
 	url = https://github.com/lfreleng-actions/test-python-submodules.git
