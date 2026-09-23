@@ -2,6 +2,6 @@
 # SPDX-FileCopyrightText: 2026 The Linux Foundation
 
 # Exactly pinned, so Nexus IQ identifies it from the manifest alone,
-# without a build. Unique to the nested level: finding it in a scan
+# without a build. Unique to the direct level: finding it in a scan
 # result proves this level's content reached the scanner.
-tomli==2.2.1
+iniconfig==2.0.0
