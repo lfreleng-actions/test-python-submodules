@@ -1,0 +1,7 @@
+# SPDX-License-Identifier: Apache-2.0
+# SPDX-FileCopyrightText: 2026 The Linux Foundation
+
+# Exactly pinned, so Nexus IQ identifies it from the manifest alone,
+# without a build. Unique to the nested level: finding it in a scan
+# result proves this level's content reached the scanner.
+tomli==2.2.1
